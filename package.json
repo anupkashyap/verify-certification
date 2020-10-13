@@ -1,0 +1,19 @@
+{
+  "name": "verify-certification",
+  "version": "1.0.0",
+  "description": "Verify certificates from top MOOC sites like Udemy, Coursera..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mooc",
+    "online",
+    "courses",
+    "certifications",
+    "coursera",
+    "udemy"
+  ],
+  "author": "Anup Kashyap",
+  "license": "ISC"
+}

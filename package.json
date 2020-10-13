@@ -1,6 +1,6 @@
 {
   "name": "verify-certification",
-  "version": "1.0.0",
+  "version": "1.0.0-dev",
   "description": "Verify certificates from top MOOC sites like Udemy, Coursera..",
   "repository": {
     "type": "git",
